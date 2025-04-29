@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "hello";
+    char str[]={'p','e','a','c','e','\0'};
+    cout << sizeof str;
 }
 
