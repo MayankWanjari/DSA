@@ -180,7 +180,7 @@ int main() {
         
     */
         
-    /*
+    
     
         vector< vector<int> > v; // Each ele in v is vector<int>
         // It can be jageed array each is of different size.
@@ -271,7 +271,7 @@ int main() {
      
         cout<<s;
         
-    */
+    
     
     // String --> Array of charatcers , each index is type char
 }
